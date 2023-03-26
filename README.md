@@ -6,8 +6,7 @@ sudo apt-get install libreadline-dev
 ```
 ## Compile
 ```bash
-    git clone github.com/pranav610/OS-Laboratory-CS39002
-    cd Assignment2/shellfiles
+    git clone github.com/UtsavMehta1902/MiniShell
     make
 ```
 ## Run
